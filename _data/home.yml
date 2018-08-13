@@ -1,0 +1,61 @@
+intro:
+  lead-in: The current fan club model is dated. Fans like you want more. You deserve more. <br /><br />The UPSTAGE Token changes everything.
+
+  heading: A token that reinvents the fan club
+  btn: Tell Me More
+
+fanclub:
+  heading: Fan Club 2.0
+  subheading: Support your favourite artist. Earn rewards. Fan Club 2.0.
+  text: "The current fan club model is out-dated. As a fan, you want more. More swag. More benefits like advanced screenings of new songs and videos. More chances to meet the artist that you love. You want to be recognized and appreciated. 
+<br /><br />
+Say hello to BackstagePlay and the UPSTG token.
+<br /><br />
+We’ve combined the vastly popular and lucrative world of online social gaming with your favourite Artist and their music. 
+<br /><br />
+The more games you play the higher you’ll climb up the leaderboards. The higher you climb the more UPSTG tokens you’ll earn. Exchange these valuable tokens for life-changing rewards that money can’t buy. 
+<br /><br />
+- Early access to music and video downloads<br />
+- Concert tickets<br />
+- Backstage passes<br />
+- SWAG
+<br /><br />
+Become a VIP to get even closer to your favourite artists."
+
+token:
+  heading: The UPSTG Token
+  subheading: Earning and using your UPSTG Token
+  step:
+    - image: img/about/1.jpg
+      title: Show your favourite artist that you care
+      text: Create an account at Backstageplay to let your favourite artist know that you care!
+    - image: img/about/2.jpg
+      title: Earning UPSTG Tokens
+      text: Play fun and challenging games with your favourite artist. The more you play the more you’ll earn valuable UPSTG tokens. 
+    - image: img/about/3.jpg
+      title: What can I do with my UPSTG Tokens? 
+      text: These tokens will carry a dollar value within Backstageplay. You’ll be able to use them towards extended game play, access to VIP areas where you’ll have first access to new music and videos. Or you could even use them towards live event tickets, swag and much more.
+    - image: img/about/4.jpg
+      title: UPSTG Token and the blockchain 
+      text: The Upstage token will be implemented on the public Ethereum blockchain as an ERC20 token. You can read more about it <a href="#">here.</a>
+  end1: What Are
+  end2: You Waiting
+  end3: For?
+
+news:
+  heading: News
+  subheading: What's Happening
+  links:
+    - title: Backstageplay Announces Cryptocurrency Initiative with Its Partner Hexbite Labs
+      url: https://www.newsfilecorp.com/release/30903/Backstageplay-Announces-Cryptocurrency-Initiative-with-Its-Partner-Hexbite-Labs
+    - title: Backstageplay Announces Addition to Its Upstage Token Advisory Team and Update on Token Development
+      url: https://www.marketwatch.com/press-release/backstageplay-announces-addition-to-its-upstage-token-advisory-team-and-update-on-token-development-2018-03-15
+
+about:
+  heading: About us
+  subheading: Behind the scene
+  text: "As a subsidiary of Parlay games, BackstagePlay is backed by over 20 years of experience.  Parlay commenced operations in 1996, at the beginning of the online gaming sector, where it created, commercialized and patented the world’s first online bingo product. Since those early days, the Parlay (and Backstageplay) executive teams and their shareholders have incubated, pioneered and directed some of the earliest and most successful online gaming companies. That expertise and direction has created a significant, material and positive impact on an industry that did not exist in the 1990s and is today approaching $20 billion in sales.
+<br /><br />
+Parlay has since expanded its product lines to include web-based and mobile products offering a majority of the games typically found in land-based environments. The company has also created and licensed social gaming products, which have been used in the consumer services and Freemium industries in North America. Parlay’s core back-office technologies have also expanded over the years to provide robust customer management, support and marketing systems, as well as customizable, integration and/or deployable solutions which have been licensed by some of the most respected gaming and non-gaming brands in the world. These include IGT, GTECH, Virgin Games, Publishers Clearing House, Intralot, Intertain, FML Group of Companies, Caliente, Netplay TV, Mr. Green and now Backstageplay Inc..
+<br /><br />
+It is this experience and insight, along with the experience and insight offered by the executive team and board of directors, which will be used to direct and manage the rapid growth and success required to commercialize a social gaming system, in partnership with its Artist customers, that will change the way that Artists engage and monetize their fans through gamification."

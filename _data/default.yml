@@ -1,0 +1,32 @@
+brand:
+  name: Upstage
+menu-string: Menu
+
+nav:
+
+  - title: Home
+    url: '#home'
+  - title: Fan Club 2.0
+    url: '#fanclub'
+  - title: UPSTG token
+    url: '#token'
+  - title: News
+    url: '#news'
+  - title: About Us
+    url: '#about'
+
+copyright: Copyright &copy; Upstage 2018
+
+social-buttons:
+  - icon: fa fa-twitter
+    url: '#' 
+  - icon: fa fa-facebook
+    url: '#'
+  - icon: fa fa-linkedin
+    url: '#'
+
+quicklinks:
+  - title: Privacy Policy
+    url: '#'
+  - title: Terms of Use
+    url: '#'
