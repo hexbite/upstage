@@ -1,11 +1,18 @@
+---
 title: Upstage - A token that reinvents the fan club
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: false
+  uploads:
+    title: Uploads
+    output: true
 description: ''
 author: ''
-
 sass:
   style: compressed
-
-assets_path: '' 
-
-collections:
-  projects:
+assets_path: ''
